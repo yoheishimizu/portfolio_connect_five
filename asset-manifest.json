@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_connect_five/static/css/main.d1b05096.chunk.css",
+    "main.js": "/portfolio_connect_five/static/js/main.35c05b76.chunk.js",
+    "main.js.map": "/portfolio_connect_five/static/js/main.35c05b76.chunk.js.map",
+    "runtime-main.js": "/portfolio_connect_five/static/js/runtime-main.45c9a8a2.js",
+    "runtime-main.js.map": "/portfolio_connect_five/static/js/runtime-main.45c9a8a2.js.map",
+    "static/js/2.be5bb55d.chunk.js": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js",
+    "static/js/2.be5bb55d.chunk.js.map": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js.map",
+    "index.html": "/portfolio_connect_five/index.html",
+    "precache-manifest.818ee22ac3b84af04bb3c25f0ff31a76.js": "/portfolio_connect_five/precache-manifest.818ee22ac3b84af04bb3c25f0ff31a76.js",
+    "service-worker.js": "/portfolio_connect_five/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/portfolio_connect_five/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.be5bb55d.chunk.js.LICENSE.txt": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/portfolio_connect_five/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c9a8a2.js",
+    "static/js/2.be5bb55d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.35c05b76.chunk.js"
+  ]
+}
