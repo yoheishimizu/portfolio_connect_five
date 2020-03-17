@@ -1,23 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio_connect_five/static/css/main.d1b05096.chunk.css",
-    "main.js": "/portfolio_connect_five/static/js/main.35c05b76.chunk.js",
-    "main.js.map": "/portfolio_connect_five/static/js/main.35c05b76.chunk.js.map",
-    "runtime-main.js": "/portfolio_connect_five/static/js/runtime-main.45c9a8a2.js",
-    "runtime-main.js.map": "/portfolio_connect_five/static/js/runtime-main.45c9a8a2.js.map",
-    "static/js/2.be5bb55d.chunk.js": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js",
-    "static/js/2.be5bb55d.chunk.js.map": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js.map",
+    "main.css": "/portfolio_connect_five/static/css/main.8a935685.chunk.css",
+    "main.js": "/portfolio_connect_five/static/js/main.d5f9d7a8.chunk.js",
+    "main.js.map": "/portfolio_connect_five/static/js/main.d5f9d7a8.chunk.js.map",
+    "runtime~main.js": "/portfolio_connect_five/static/js/runtime~main.80188c44.js",
+    "runtime~main.js.map": "/portfolio_connect_five/static/js/runtime~main.80188c44.js.map",
+    "static/js/2.dbe6ef5f.chunk.js": "/portfolio_connect_five/static/js/2.dbe6ef5f.chunk.js",
+    "static/js/2.dbe6ef5f.chunk.js.map": "/portfolio_connect_five/static/js/2.dbe6ef5f.chunk.js.map",
     "index.html": "/portfolio_connect_five/index.html",
-    "precache-manifest.818ee22ac3b84af04bb3c25f0ff31a76.js": "/portfolio_connect_five/precache-manifest.818ee22ac3b84af04bb3c25f0ff31a76.js",
+    "precache-manifest.72f169d3ec9e19b3c50a09abb2046a71.js": "/portfolio_connect_five/precache-manifest.72f169d3ec9e19b3c50a09abb2046a71.js",
     "service-worker.js": "/portfolio_connect_five/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/portfolio_connect_five/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.be5bb55d.chunk.js.LICENSE.txt": "/portfolio_connect_five/static/js/2.be5bb55d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio_connect_five/static/media/logo.5d5d9eef.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.45c9a8a2.js",
-    "static/js/2.be5bb55d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.35c05b76.chunk.js"
-  ]
+    "static/css/main.8a935685.chunk.css.map": "/portfolio_connect_five/static/css/main.8a935685.chunk.css.map"
+  }
 }
